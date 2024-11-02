@@ -1,5 +1,4 @@
-﻿// 使用範例
-using AngleSharp;
+﻿using AngleSharp;
 using AngleSharp.Dom;
 
 public class Program
